@@ -4,4 +4,4 @@ In this repository, you'll discover three Python (PY) files containing the text 
 
 Additionally, a PDF document is included, providing a comprehensive analysis of the information extracted from the code.
 
-The speeches were sourced online and transcribed with the assistance of: [Link Text](https://videohighlight.com/video/ai)
+The speeches were sourced online and transcribed with the assistance of: [Link](https://videohighlight.com/video/ai)
